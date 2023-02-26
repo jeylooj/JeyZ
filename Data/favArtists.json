@@ -1,0 +1,31 @@
+{
+    "favArtists": [{
+            "id": 1,
+            "name": "Jin of BTS",
+            "img": "images/Artists/jin.jpeg"
+        }, {
+            "id": 2,
+            "name": "Damiano of Maneskin",
+            "img": "images/Artists/damiano.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Eminem",
+            "img": "images/Artists/eminem.jpeg"
+        }, {
+            "id": 4,
+            "name": "Billie",
+            "img": "images/Artists/billie.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Chester of Linkin park",
+            "img": "images/Artists/chester.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Shahin najafi",
+            "img": "images/Artists/shahin.jpeg"
+        }
+    ]
+}

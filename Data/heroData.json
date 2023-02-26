@@ -1,0 +1,44 @@
+{
+    "hero": [{
+            "id": 1,
+            "title": "Best movie of all the time",
+            "tag": "movie",
+            "img": "images/heroData/1917.jpeg",
+            "rate": 32
+        }, {
+            "id": 2,
+            "title": "Here is the highest rates series",
+            "tag": "Series",
+            "img": "images/heroData/chernobyl.jpeg",
+            "rate": 47
+        },
+        {
+            "id": 3,
+            "title": "A closer look at Watch Dogs game",
+            "tag": "Game",
+            "img": "images/heroData/watch-dogs.jpg",
+            "rate": 54
+        },
+        {
+            "id": 4,
+            "title": "What to play this weekend?",
+            "tag": "Game",
+            "img": "images/heroData/batman.jpeg",
+            "rate": 12
+        },
+        {
+            "id": 5,
+            "title": "How to buy a gaming computer?",
+            "tag": "Tutorial",
+            "img": "images/heroData/gaming.jpeg",
+            "rate": 14
+        },
+        {
+            "id": 6,
+            "title": "Hogwarts Legacy is the biggest game",
+            "tag": "Game",
+            "img": "images/heroData/harry.jpeg",
+            "rate": 14
+        }
+    ]
+}
